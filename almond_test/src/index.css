@@ -1,0 +1,22 @@
+body{
+    font-family: Lato !important;
+}
+.btn-teal{
+    background: #00AEB5 !important;
+    color: white !important
+}
+.bg-teal{
+    background: #00AEB5 !important;
+}
+.text-teal{
+    color: #00AEB5 !important
+}
+.nav-item .nav-link{
+    font-weight: bold
+}
+.rounded-teal{
+    border: 1px solid #00AEB5;
+}
+.brd {
+    border: 1px solid;
+}

@@ -1,0 +1,211 @@
+.backGroundColor {
+    background-color: #00AEB5
+}
+
+.backGroundNagv{
+    position: absolute;
+    height: 29px;
+    left: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    top: 50px;
+    line-height: 29px;
+}
+    
+
+.colorLogo {
+    width: 79px;
+    color: #ffffff;
+}
+
+.removePadding {
+    padding-right: 0px;
+    padding-left: 0px;
+   
+}
+
+.barTop {
+    padding-top: 37px;
+}
+
+.topWhiteTwo{
+    position: relative;
+    top: 252px;
+}
+
+.cardFeatures {
+    position: relative;
+    /* width: 505px; */
+    height: 519px;
+    top: 110px;
+    background: #FFFFFF;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+border-radius: 5px;
+}
+
+.bg-light{
+    background-color: #00aeb5 !important;
+}
+
+.navbar-light .navbar-brand {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav .nav-link{
+        font-family: Avenir Next;
+        font-size: 16px;
+        line-height: 22px ;
+        padding-right: 1.5rem !important;
+        padding-left: 1.5rem !important;
+        /* identical to box height */
+        color: #2C3E50;
+    }
+
+    .navbar-expand-lg .navbar-collapse .navbar-nav .nav-item  .buttonAlone{
+        margin-top: 1px !important;
+        line-height: 2px !important;
+    }
+
+    .btn-outline-success {
+        color: #28a745;
+        border-color: #ffffff;
+        font-size: 16px;
+    }
+
+}
+
+.containerImage {
+    padding-top: 0px !important;
+}
+
+
+.toPay {
+    position: relative;
+    top: -150px;
+    background-color: rgb(255, 255, 255);
+}
+
+.toPayHeader{
+    font-family: Avenir Next;
+    font-size: 24px;
+    line-height: 33px;
+    color: #00AEB5;
+}
+
+.toPaysubHeader{
+    font-family: Avenir Next;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #2C3E50;
+}
+
+.dividerCircle {
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: #00AEB5;
+
+}
+
+.toPayText{
+    font-family: Avenir Next;
+    font-size: 18px;
+    line-height: 23px;
+    color: #2C3E50;
+    
+}
+
+.emptyBoxBackground{
+    background: #ECF0F1;
+    border-radius: 2px;
+    width: 200px;
+    height: 180px;
+}
+
+.toPayPosition {
+    position: relative;
+    top: -17px;
+}
+
+.piggyCss {
+    width: 55px;
+     height: 55px
+}
+
+
+.dividerCss {
+    position: relative;
+    top: -26px;
+    background-color:  #00AEB5;
+}
+
+.appReview{
+    font-family: Avenir Next;
+    font-size: 20px;
+    line-height: 27px;
+    color: #00AEB5;
+}
+
+.featutePText{
+font-family: Avenir Next;
+font-size: 18px;
+line-height: 25px;
+}
+
+.imgFeatures{
+    margin-left: 20px;
+}
+
+.posFeatures{
+    position: relative;
+    top: -29px;
+    left: 120px;
+}
+
+#playstoreFeature{
+    position: relative;
+    top: 50px;
+    left: 26px;
+}
+
+#copyrightText{
+font-family: Avenir Next;
+font-size: 12px;
+line-height: 15px;
+color: #2C3E50;
+}
+
+.addCss{
+    position: relative;
+    top: 220px;
+}
+
+.removePadding {
+    padding-right: 0px;
+    padding-left: 0px;
+   
+}
+
+#copyrightText {
+font-family: Avenir Next;
+font-size: 18px;
+line-height: 22px;
+color: #2C3E50;
+}
+
+
+#copyText{
+    font-family: Avenir Next;
+    font-size: 18px;
+    line-height: 22px;
+    color: #2C3E50;
+    }
+
