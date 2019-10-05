@@ -228,7 +228,7 @@ class Landing extends Component {
             <div class=" addCss container">
               <div class="row">
                 <ul >
-                  <p id="copyrightText">Copyright © 2019 Oltranz Ltd. All rights</p>
+                  <p id="copyrightText">Copyright © 2019 Oltranz Ltd. All rights reserved</p>
                 </ul>
                 <ul id="footerMobile" class="ml-auto" >
                   <div class="copyText">FAQs
