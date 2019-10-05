@@ -1,0 +1,9 @@
+@media(max-width:768px){
+   
+    .adjustSignupMobile {
+        width:100px !important;
+    }
+    #adjustButtonPad {
+        padding-left: 10px;
+    }
+}

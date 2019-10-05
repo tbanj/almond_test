@@ -2,14 +2,14 @@ import React from "react";
 import NavBar from "../common/nav";
 import { Link } from 'react-router-dom'
 
-const SignIn = () => {
+const SignUp = () => {
   return (
     <React.Fragment>
       <NavBar />
       <div className="container">
         <div className="row d-flex justify-content-center">
           <div className="col-md-4">
-            <h3 className="text-teal text-center">Sign In to Your Account</h3>
+            <h3 className="text-teal text-center">Sign Up to Continue</h3>
             <form className="mt-3">
               <div className="form-group">
                 <label for="exampleInputEmail1">Email address</label>
@@ -30,13 +30,20 @@ const SignIn = () => {
                   placeholder="Password"
                 />
               </div>
+              <div className="form-group">
+                <label for="confirmPassword">Confirm Password</label>
+                <input
+                  type="password"
+                  className="form-control rounded-0"
+                  id="confirmPassword"
+                  placeholder="Password"
+                />
+              </div>
               <button type="submit" className="btn btn-teal btn-block">
-                SIGN IN
+                REGISTER NOW
               </button>
               <div className="text-center mt-4">
-                  <p>Don't have an account? <Link className="text-danger" to="/signup">Sign up</Link></p>
-                  <hr/>
-                  <p><Link  className="text-danger" to="">Forgot password?</Link></p>
+                <p>Already have an account? <Link className="text-danger" to="/signin">Sign in</Link></p>
               </div>
             </form>
           </div>
@@ -46,4 +53,4 @@ const SignIn = () => {
   );
 };
 
-export default SignIn;
+export default SignUp;
