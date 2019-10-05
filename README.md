@@ -1,7 +1,7 @@
 # almond_test
 This is a test application 
 
-# http://almondpay.netlify.com/
+# https://almondpay.netlify.com/
 
 This is a web application developed from scratch from a a figma design. 
 Its implemented with react framework
@@ -16,4 +16,4 @@ ii)   Signup
 
 iii)  Login page
 
-# http://almondpay.netlify.com/
+# https://almondpay.netlify.com/
