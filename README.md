@@ -10,8 +10,10 @@ critics or remarks will be appreciated.
 It consist of 
 
 
-i)    Landing page, 
+i)    Landing page
+
 ii)   Signup
+
 iii)  Login page
 
 # http://almondpay.netlify.com/
